@@ -1,0 +1,11 @@
+Mvctestproject/Mvctestproject/bin
+Mvctestproject/packages
+Mvctestproject/packages/Microsoft.ApplicationInsights.2.5.1/lib/net45/Microsoft.ApplicationInsights.dll
+Mvctestproject/Mvctestproject/Scripts
+Mvctestproject/.vs
+checktest/checktest/bin
+checktest/packages/
+Mvctestproject/Mvctestproject/obj
+Mvctestproject/Mvctestproject/fonts
+checktest/checktest/obj
+checktest/.vs
